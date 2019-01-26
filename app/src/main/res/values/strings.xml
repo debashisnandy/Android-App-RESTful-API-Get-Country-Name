@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Getting Country Name By Code Using Retrofit</string>
+    <string name="get_name_country">Get Name</string>
+    <string name="enter_country_code">Enter Country Code</string>
+</resources>
